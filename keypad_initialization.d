@@ -1,0 +1,9 @@
+.\keypad_initialization.o: keypad_initialization.c
+.\keypad_initialization.o: C:/Keil/labware/inc/tm4c123gh6pm.h
+.\keypad_initialization.o: C:\Keil\ARM\Inc\TI\TM4C123\tm4c123gh6pm.h
+.\keypad_initialization.o: C:\Keil\ARM\CMSIS\Include\core_cm4.h
+.\keypad_initialization.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\keypad_initialization.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\keypad_initialization.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\keypad_initialization.o: C:\Keil\ARM\CMSIS\Include\core_cm4_simd.h
+.\keypad_initialization.o: C:\Keil\ARM\Inc\TI\TM4C123\system_TM4C123.h
